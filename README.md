@@ -32,6 +32,7 @@ Michael, Chris, Randon, Alys, Austin
 ## Features
 
 We are working on the comment feature. 
+<image src="https://audio-freq.herokuapp.com/AudioFreq_logo.png" >
 
 ## Liscense
 
